@@ -6,13 +6,12 @@
 
 [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/yzfly/awesome-chatgpt-zh)
 
-[为方便国内访问, GitLab 镜像同步更新~](https://gitlab.com/awesomeai/awesome-chatgpt-zh)
+[为方便国内访问, 科学上网指南~](https://www.youtube.com/playlist?list=PLs7sV-9QB_cLpoQJFcaJBMnaVfr_YEDW4)
 
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地使用中文与 ChatGPT 进行交流的方法。在这个仓库中，您将找到丰富的 ChatGPT工具、应用和示例。
 
 - [🤖 ChatGPT 中文指南 🤖](#-chatgpt-中文指南-)
   - [ChatGPT 使用交流](#chatgpt-使用交流)
-    - [知识星球](#知识星球)
     - [电报群](#电报群)
   - [什么是 ChatGPT ?](#什么是-chatgpt-)
   - [使用途径](#使用途径)
@@ -161,24 +160,12 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ## ChatGPT 使用交流
 
-### 知识星球
-
-如果感觉本指南内容对您有帮助，在您经济条件允许的情况下可以考虑加入我的知识星球。每天只需2毛钱，即可与我一起在时代最前沿踏浪逐潮。与本指南作为资源合集定位所不同的，我将在知识星球与大家一起学习 ChatGPT 及 AI 前沿知识，分享自己在这个技术爆炸时代的深度思考与实践，分享前沿科技成果，分享自己掌握的优质学习资料和教程，最新资讯。
-
-建立知识星球也是对自己学习的敦促，也希望能与智慧的你们一起把握时代机遇，预见未来，遇见更好的自己！
-
-加入链接：https://t.zsxq.com/0cYzbXzeT
-
-或者微信扫码
-<img src=imgs/zsxq.jpg width=40% />
-
-
 ### 电报群
 
 欢迎加入电报交流群讨论 ChatGPT 相关资源及日常使用等相关话题：
 
-- 🚀[电报频道：ChatGPT 精选](https://t.me/AwesomeChatGPT)🚀
-- 🚀[电报交流群：ChatGPT 精选 Chat](https://t.me/+cBIhxVSwABg4Y2M5)🚀
+- 🚀[电报频道：ChatGPT中方社区频道](https://t.me/scanChatGPT)🚀
+- 🚀[电报交流群：ChatGPT中文社区 Chat](https://t.me/ZhChatGPT)🚀
 
 ## 什么是 ChatGPT ?
 
@@ -191,10 +178,11 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 ### 💻 [OpenAI 官网](https://ai.com)
 
 (推荐) 注册后免费使用，无次数限制，官方出品，性能最强，技术最佳。缺点是国内注册困难：
-* 需要科学上网，使用的代理 IP 质量不好的话无法成功
-* 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](https://sms-activate.org/)
-* 国内注册教程及各种问题解决: https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb
-* [Plus 开通教程](https://github.com/gclhaha/chatGPT-plus-guide) 技术路线是 RMB -> USDT —> Depay 虚拟卡 -> 充值，优点是匿名性好，缺点是操作复杂
+* 需要科学上网，使用的代理 IP 质量不好的话无法成功 
+## [为方便国内访问, 科学上网指南~](https://www.youtube.com/playlist?list=PLs7sV-9QB_cLpoQJFcaJBMnaVfr_YEDW4)
+* 需要国外手机号验证，google voice 等虚拟号码无法通过验证，可使用淘宝解决 or [海外号码](http://bit.ly/3Yzy5YQ)
+* 国内注册教程及各种问题解决:https://www.youtube.com/playlist?list=PLs7sV-9QB_cJkf04k34RI-iuQXh3R0aoj
+* [Plus 开通教程](https://youtu.be/sjhbKa_veiA) 技术路线是 RMB -> USDT —> Depay 虚拟卡 -> 充值，优点是匿名性好，缺点是操作复杂 
 * 开通 Plus 的另一条技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
   * [nobepay 虚拟卡开卡教程](https://zhuanlan.zhihu.com/p/619289623), [nobepay 官网](https://www.nobepay.com/)
   * [防止失效备份教程](imgs/nobepay_chatgpt.png)
@@ -203,7 +191,7 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 
 ### 💻 [poe](https://poe.com/chatgpt)
 
-(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4，提供多种模型选择。能科学上网即可注册，有 iPhone 客户端可以使用。
+(推荐) 注册后免费使用，可免费试用当前最先进的 GPT-4，提供多种模型选择。能科学上网即可注册，关于手机与PC客户端教程见(https://www.youtube.com/playlist?list=PLs7sV-9QB_cJkf04k34RI-iuQXh3R0aoj)
 
 ![poe](imgs/poe.jpg)
 
@@ -212,7 +200,6 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 (推荐) 注册后免费使用，有次数限制(经常调整)，需要使用微软的 Edge 浏览器访问 www.bing.com, 国内会重定向到 cn.bing.com 导致无法使用。国内使用有两种方法：
 * 科学上网访问 www.bing.com
 * 重定向访问 www.bing.com
-* [国内使用教程](https://juejin.cn/post/7199557716998078522)
 * [如果不想使用 Edge 想使用 Chrome 教程](https://cloud.tencent.com/developer/article/2235566)
 * [第三方开发者开发的 bing 客户端：BingGPT](https://github.com/dice2o/BingGPT)
   
