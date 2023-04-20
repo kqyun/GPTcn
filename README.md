@@ -185,6 +185,9 @@ ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我�
 * 开通 Plus 的另一条技术路线是: RMB -> nobepay 虚拟卡 -> 充值，优点是操作简单，缺点是需要绑定微信手机号等个人信息
   * [nobepay 虚拟卡开卡教程](https://zhuanlan.zhihu.com/p/619289623), [nobepay 官网](https://www.nobepay.com/)
   * [防止失效备份教程](imgs/nobepay_chatgpt.png)
+  * [导出ChatGPT历史记录视频教程](https://youtu.be/F_GQ2OtBqgM)
+  * [申请ChatGPT密钥视频教程](https://youtu.be/aIwBs8tq37s)
+  * [IOS与安卓手机端APP教程](https://youtu.be/el0yBXPNOuA)
 
 ![ChatGPT](imgs/openai_chatgpt.jpg)
 
