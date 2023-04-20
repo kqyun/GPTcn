@@ -4,7 +4,7 @@
 [![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
 [![slack badge](https://img.shields.io/badge/Telegrem-join-blueviolet?logo=telegrem&amp)](https://t.me/ZhChatGPT)
 
-[GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/kqyun/GPTcn)
+## [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/kqyun/GPTcn)
 
 
 ChatGPT 中文指南项目旨在帮助中文用户了解和使用ChatGPT。我们收集了各种免费和付费的ChatGPT资源，以及如何更有效地使用中文与 ChatGPT 进行交流的方法。在这个仓库中，您将找到丰富的 ChatGPT工具、应用和示例。
