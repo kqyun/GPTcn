@@ -1121,15 +1121,6 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 
 ## 关于赞赏——感谢您的认可，Star 和转发已经是最好的支持！
 
-有朋友咨询是否可以赞赏，在此回复如下。
-
-收集维护本项目的过程，对自己也是学习和成长的过程。在这个过程中能够获得大家的认可以及支持我已深感荣幸，也深感惶恐。目前本人学习工作还算顺利，暂时没有遇到经济上的困难，因此谢谢大家的好意，你们的 Star 和转发已经是对本项目最好的支持，暂不考虑开通赞赏功能！如果感觉本指南内容对您有帮助，在您经济条件允许的情况下可以考虑加入我的知识星球。
-
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yzfly/awesome-chatgpt-zh&type=Date)](https://star-history.com/#yzfly/awesome-chatgpt-zh&Date)
-
 
 ## 贡献指南
 
