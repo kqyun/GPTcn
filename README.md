@@ -1148,4 +1148,7 @@ ChatGPT的强大能力是显而易见的，但对于人工智能领域不太熟�
 - [SimFG](https://github.com/SimFG)
 - [SimFG](https://github.com/SimFG)
 - [wzpan](https://github.com/wzpan)
+- [yzfly](https://github.com/yzfly)
+
+
 如果您做出了重大贡献并希望得到认可，请随时与我们联系或提交一个更新此部分的 Pull Request。
